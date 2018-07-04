@@ -1,0 +1,79 @@
+.modal-dialog .modal-user-delete .modal-header{
+    background-color: #00c851;
+    color: white;
+}
+.modal-dialog .modal-user-delete .text-center .fa {
+    color: #00c851;
+}
+.modal-dialog .modal-user-delete .modal-body .text-center p{
+    margin-top: 30px;
+}
+.modal-dialog{
+    margin-top: 300px;
+}
+.modal-dialog .modal-user-delete .modal-body .modal-footer .btn-success{
+
+}
+
+
+.rotateIn {
+    -webkit-animation-name: rotateIn;
+    animation-name: rotateIn;
+}
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.user-manage-actions{
+    font-size: 18px;
+    cursor: pointer;
+}
+.control-user-label{
+    margin-top: 7px;
+}
+.user-detail-cotent{
+    padding-bottom: 40px;
+}
+.box-footer .btn-group .btn{
+    margin-left: 15px !important;
+}
+
+#uploadbutton{
+    display: none !important;
+}
+.logo-nav-item a{
+    font-size:23px;
+}
+.nav-item .nav-pills{
+    border-left: 0px !important;
+}
+.update_submenu{
+    color: #07a7e3 !important;
+    font-weight: 400;
+}
+.input-group-append{
+    display: none !important;
+}
+.add-product-btn{
+    margin-top: 15px !important;
+    margin-right: 15px !important;
+}
+.sub_menu_header{
+    font-size: 20px !important;
+}
+.sub_category_name_title{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.card .card-table{
+    padding: 0px 22px !important;
+}
+.sub_menu_th{
+    width: 60%;
+}
+.modal-subcategory-name{
+    color: red !important;
+    font-weight: bold !important;
+}
